@@ -8,7 +8,7 @@ Welcome to College Marketplace, your go-to platform for students to buy & sell i
 🔥 User-Friendly Interface – Simple, sleek, and easy to navigate.
 🔥 Secure & Exclusive – Built for college students, by students.
 
-### [Deployed](https://kuza-market.vercel.app/)
+## 🌐🔗[Deployed](https://kuza-market.vercel.app/)
 [👆Click to visit the live demo of kuza-market](https://kuza-market.vercel.app/)
 
 ## 🛠️ Tech Stack
