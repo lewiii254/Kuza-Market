@@ -32,9 +32,11 @@ cd college-marketplace
 ### 📬 Contributing
 👨‍💻 Want to improve the marketplace? Fork this repo, make changes, and submit a PR!
 
-📞 Contact
+### 📞 Contact
 📧 [Email](ngondimarklewismutugi)
+
 🌐 [Portfolio Website](https://lewiii254.github.io/Portfolio/)
+
 🐦 [Whatsapp](https://wa.me/254790767347)
 
 ### 🔥 College Marketplace – Because students deserve an easy way to buy & sell! 🚀💰
