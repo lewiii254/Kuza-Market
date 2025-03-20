@@ -17,7 +17,8 @@ Welcome to College Marketplace, your go-to platform for students to buy & sell i
 ## 📸 Screenshots
 📸 Add some spicy screenshots of the UI here to showcase the 🔥 design!
 
-🏁 Getting Started
+##  Installation
+## 🏁 Getting Started
 1️⃣ Clone the repo:
 ```
 git clone https://github.com/yourusername/college-marketplace.git
