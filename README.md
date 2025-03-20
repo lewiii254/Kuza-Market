@@ -21,7 +21,7 @@ Welcome to College Marketplace, your go-to platform for students to buy & sell i
 ## 🏁 Getting Started
 1️⃣ Clone the repo:
 ```
-git clone https://github.com/yourusername/college-marketplace.git
+git clone https://github.com/lewiii254/Kuza-Market.git
 ```
 2️⃣ Navigate into the project directory:
 ```
