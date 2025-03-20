@@ -2,20 +2,20 @@
 Welcome to College Marketplace, your go-to platform for students to buy & sell items within the college community! Say goodbye to clutter and hello to fast, easy transactions!
 
 ## 🚀 Features
-🔥 List Items – Post items for sale with images & details.
-🔥 Buy Items – Browse & connect with sellers easily.
-🔥 WhatsApp Integration – Chat instantly with sellers via WhatsApp.
-🔥 User-Friendly Interface – Simple, sleek, and easy to navigate.
-🔥 Secure & Exclusive – Built for college students, by students.
+- 🔥 List Items – Post items for sale with images & details.
+- 🔥 Buy Items – Browse & connect with sellers easily.
+- 🔥 WhatsApp Integration – Chat instantly with sellers via WhatsApp.
+- 🔥 User-Friendly Interface – Simple, sleek, and easy to navigate.
+- 🔥 Secure & Exclusive – Built for college students, by students.
 
 ## 🌐🔗[Deployed](https://kuza-market.vercel.app/)
 [👆Click to visit the live demo of kuza-market](https://kuza-market.vercel.app/)
 
 ## 🛠️ Tech Stack
-💻 Frontend – HTML, CSS, JavaScript
-⚙️ Backend – TBD (MERN in progress)
-🛢 Database – TBD (MongoDB in progress)
-🌐 Hosting – TBD (Netlify, Vercel, or your choice)
+- 💻 Frontend – HTML, CSS, JavaScript
+- ⚙️ Backend – TBD (MERN in progress)
+- 🛢 Database – TBD (MongoDB in progress)
+- 🌐 Hosting – TBD (Netlify, Vercel, or your choice)
 
 ## 📸 Screenshots
 📸 Add some spicy screenshots of the UI here to showcase the 🔥 design!
