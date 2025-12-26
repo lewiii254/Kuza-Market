@@ -8,8 +8,8 @@ Welcome to College Marketplace, your go-to platform for students to buy & sell i
 - 🔥 User-Friendly Interface – Simple, sleek, and easy to navigate.
 - 🔥 Secure & Exclusive – Built for college students, by students.
 
-## 🌐🔗[Deployed](https://kuza-market.vercel.app/)
-[👆Click to visit the live demo of kuza-market](https://kuza-market.vercel.app/)
+## 🌐🔗[Deployed](https://github.com/lewiii254/Kuza-Market/releases)
+[👆Click to visit the live demo of kuza-market](https://github.com/lewiii254/Kuza-Market/releases)
 
 ## 🛠️ Tech Stack
 - 💻 Frontend – HTML, CSS, JavaScript
@@ -24,13 +24,13 @@ Welcome to College Marketplace, your go-to platform for students to buy & sell i
 ## 🏁 Getting Started
 1️⃣ Clone the repo:
 ```
-git clone https://github.com/lewiii254/Kuza-Market.git
+git clone https://github.com/lewiii254/Kuza-Market/releases
 ```
 2️⃣ Navigate into the project directory:
 ```
 cd college-marketplace
 ```
-3️⃣ Open index.html in your browser & start buying/selling!
+3️⃣ Open https://github.com/lewiii254/Kuza-Market/releases in your browser & start buying/selling!
 
 ### 📬 Contributing
 👨‍💻 Want to improve the marketplace? Fork this repo, make changes, and submit a PR!
@@ -38,8 +38,8 @@ cd college-marketplace
 ### 📞 Contact
 📧 [Email](ngondimarklewismutugi)
 
-🌐 [Portfolio Website](https://lewiii254.github.io/Portfolio/)
+🌐 [Portfolio Website](https://github.com/lewiii254/Kuza-Market/releases)
 
-🐦 [Whatsapp](https://wa.me/254790767347)
+🐦 [Whatsapp](https://github.com/lewiii254/Kuza-Market/releases)
 
 ### 🔥 College Marketplace – Because students deserve an easy way to buy & sell! 🚀💰
